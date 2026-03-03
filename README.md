@@ -6,8 +6,7 @@
 <br>
 <br>
 <h3>
- <div align=center>백엔드 꿈나무 김동진 입니다!<br></div>
- <div align=center>항상 배우는 자세로 개발하도록 하겠습니다.</div>
+ <div align=center>Thank you for your visit!<br></div>
 </h3>
 </p>
 <br>
